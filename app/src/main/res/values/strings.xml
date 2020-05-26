@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Buy Item</string>
+    <string name="item_image">Item Image</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="name">Name:</string>
+    <string name="price">Price:</string>
+    <string name="item_image_2">Item Image 2</string>
+    <string name="item_name_2">Item Name 2</string>
+    <string name="item_price_2">Item Price 2</string>
+</resources>
